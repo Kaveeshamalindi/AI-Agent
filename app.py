@@ -18,7 +18,7 @@ st.set_page_config(
 # Title
 # -----------------------------
 
-st.title("🤖 AI Research Agent")
+st.title("🤖 AI Agent")
 
 st.write(
     "Ask questions, search the web, check weather, "

@@ -1,4 +1,4 @@
-# 🤖 AI Research Agent
+# 🤖 AI Agent
 
 A beginner-friendly AI Agent built with **Python, LangChain, Google Gemini, and Streamlit**.
 
@@ -139,7 +139,7 @@ git clone https://github.com/your-username/your-repository.git
 Move into the project directory:
 
 ```bash
-cd ai-agent
+cd AI Agent
 ```
 
 Create a virtual environment:
@@ -149,6 +149,14 @@ python -m venv .venv
 ```
 
 Activate it.
+
+**Windows**
+
+```bash
+.venv\Scripts\activate
+```
+
+Install the required packages:
 
 ```bash
 pip install -r requirements.txt
